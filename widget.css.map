@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://ReactChatBot/./src/index.css"],"names":[],"mappings":"AAAA,mB;AACA;AACA,G","file":"widget.css","sourcesContent":[".grecaptcha-badge { \n    visibility: hidden;\n  }"],"sourceRoot":""}
